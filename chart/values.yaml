@@ -90,3 +90,4 @@ podSecurityContext:
   runAsNonRoot: true
   runAsUser: 1000
 securityContext: {}
+terminationGracePeriodSeconds: 30
